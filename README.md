@@ -4,3 +4,4 @@
  Ejercicios 1 (https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Ejercicios1_Regresi%C3%B3n_002.pdf)
  Resumen (https://github.com/mariannavila/FCFM/blob/master/Resumenes_1811303.pdf)
  Mapa Mental 2 (
+Analisis de bases de datos
