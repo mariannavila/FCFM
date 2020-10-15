@@ -10,4 +10,4 @@
  
 [Mapa Mental 2 ]
  
-[Analisis de bases de datos ](https://github.com/mariannavila/FCFM/blob/master/AnalisisBD_1811303.docx)
+[Analisis de bases de datos ](https://github.com/mariannavila/FCFM/blob/master/AnalisisBD_1811303.pdf)
