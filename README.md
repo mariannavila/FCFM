@@ -16,5 +16,6 @@
 
 [PIA Parte 1](https://github.com/melslzr/Mineria-de-datos/blob/master/Avance1-PIA_5_002.pdf)
 
-[Ejercicios PIA 1](https://github.com/melslzr/Mineria-de-datos/blob/master/Visualizaci%C3%B3n.ipynb)
+[Ejercicios PIA 1 Visualizacion](https://github.com/melslzr/Mineria-de-datos/blob/master/Visualizaci%C3%B3n.ipynb)
+[Ejercicios PIA 1 Limpieza](https://github.com/melslzr/Mineria-de-datos/blob/master/Limpieza.ipynb)
 
