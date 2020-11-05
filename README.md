@@ -13,3 +13,8 @@
 [Analisis de bases de datos ](https://github.com/mariannavila/FCFM/blob/master/AnalisisBD_1811303.pdf)
 
 [Ejercicios Basicos Py](https://github.com/mariannavila/FCFM/blob/master/EjerciciosBasicos_1811303.ipynb)
+
+[PIA Parte 1](https://github.com/melslzr/Mineria-de-datos/blob/master/Avance1-PIA_5_002.pdf)
+
+[Ejercicios PIA 1](https://github.com/melslzr/Mineria-de-datos/blob/master/Visualizaci%C3%B3n.ipynb)
+
